@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nyk:home|Door43 (nyk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nyk|d43-nyk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nyk/archive/master.zip|d43-nyk.zip]]
+
+**Recent Changes**
+{{changes>ns = nyk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nyk|Ethnologue data]]
+
